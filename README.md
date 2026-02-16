@@ -48,9 +48,7 @@
 
 ## 🎓 Certifications
 
-- 🏅 AWS Cloud Practitioner (If applicable)  
-- 🏅 Docker (If completed)  
-- 🏅 Linux Certification  
+
 
 ---
 
