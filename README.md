@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker" />
+  
   <img src="https://img.shields.io/badge/Linux-Ubuntu-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
+
 </p>
 
 ---
