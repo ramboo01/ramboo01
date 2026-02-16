@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tarun</h1>
+<h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast ☁️</h3>
 
-<!--
-**ramboo01/ramboo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔧 Learning DevOps & Cloud Infrastructure  
+- 🐳 Working with Docker & containerization  
+- 🔁 Building CI/CD pipelines  
+- ☁️ Exploring AWS & Terraform  
+- 🎯 Goal: Become Job-Ready DevOps Engineer  
+
+---
+
+## 🛠 Tech Stack
+
+- **OS & Scripting:** Linux, Bash, Python  
+- **Version Control:** Git, GitHub  
+- **Containers:** Docker  
+- **Orchestration:** Kubernetes  
+- **CI/CD:** GitHub Actions, Jenkins  
+- **Cloud & IaC:** AWS, Terraform  
+- **Monitoring:** ELK Stack  
+
+---
+
+## 📌 Projects
+
+- 🔹 Dockerized Application  
+- 🔹 CI/CD Pipeline  
+- 🔹 Kubernetes Deployment  
+- 🔹 Terraform AWS Infrastructure  
+- 🔹 ELK Monitoring Setup  
+
+---
+
+## 🎓 Certifications
+
+- 🏅 AWS Cloud Practitioner (If applicable)  
+- 🏅 Docker (If completed)  
+- 🏅 Linux Certification  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn:https://www.linkedin.com/in/tarun-saini-3951ba341/
+- 🐳 DockerHub: #
+- 📧 Email: 04taini@gmail.com
